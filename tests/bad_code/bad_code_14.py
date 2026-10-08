@@ -1,6 +1,6 @@
 import sqlite3
 
-conn = sqlite3.connect("ecommerce.db")
+conn = sqlite3.connect("olist.db")
 cursor = conn.cursor()
 
 
